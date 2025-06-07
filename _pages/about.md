@@ -52,10 +52,3 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2021.09 - 2024.06*, Mechanical Engineering. School of Mechanical Engineering. Tianjin University. Tianjin.
 - *2017.09 - 2021.06*, Mechanical Design, Manufacturing, and Automation. School of Mechanical, Electrical & Information Engineering. Shandong University. Weihai. 
-
-{% # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)%}
-
-{%# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.%}
