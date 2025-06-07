@@ -33,7 +33,9 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 [A Modular Direct Description Method With Low Memory Usage and Execution Time for Hysteresis Modeling and Compensation of Piezoelectric Actuators](https://ieeexplore.ieee.org/document/10495749)
 
 **Zengsheng Li**, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi
-<strong><font color="#44679E">[**Content**]</font></strong>
+<br />
+<br />
+<strong><font color="#44679E">Content</font></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -45,7 +47,9 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 **Zengsheng Li**, Dunfa Long, Shaoan Chen, Chaoyang Shi
 
-[**Content**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<br />
+<br />
+<strong><font color="#44679E">Content</font></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
