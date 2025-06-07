@@ -51,8 +51,9 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 </div>
 </div>
 
-- [A Modular Direct Description Method With Low Memory Usage and Execution Time for Hysteresis Modeling and Compensation of Piezoelectric Actuators](https://ieeexplore.ieee.org/document/10495749), Zengsheng Li, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi, **TASE 2024**
 - [An Automated Pick-and-Place Method for Irregular-Shaped Microspheres Inspired by Chopstick Operation](https://ieeexplore.ieee.org/document/10744564), Zengsheng Li, Dunfa Long, Shaoan Chen, Chaoyang Shi, **IEEE ACCESS 2024**
+- [A Modular Direct Description Method With Low Memory Usage and Execution Time for Hysteresis Modeling and Compensation of Piezoelectric Actuators](https://ieeexplore.ieee.org/document/10495749), Zengsheng Li, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi, **TASE 2024**
+- [Nano Robotic Manipulator Positioning Accuracy Measurement By Secondary Electron Image](https://ieeexplore.ieee.org/document/9517439), Litao Yang, Lue Zhang, Zhi Qu, Zengsheng Li, Zhan Yang, **IEEE RCAR 2021**
 
 
 # 📖 Educations
@@ -63,9 +64,9 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 # 🎖 Honors and Awards
 - *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National Undergraduate Electronic Design Contest 
-- *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National University Students Intelligent Car Race
+- *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National University Students Intelligent Car Race
 - *2019* -&nbsp;&nbsp;International - Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The China Engineering Robot Competition and International Open
-- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- First Prize&nbsp;&nbsp;&nbsp;- The 7th Shandong Province University Robot Competition
+- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- First Prize&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The 7th Shandong Province University Robot Competition
 - *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The 2rd Shandong Province University Students Intelligent Control Competition
 
 
