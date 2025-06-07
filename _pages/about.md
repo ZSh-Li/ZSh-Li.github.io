@@ -17,10 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a doctoral student at the Department of Biomedical Engineering of College of Design and Engineering in National University of Singapore.
-
-
-My research interest includes magnetic-driven methods, micro-miniature robot, micro-assembly, hysteresis modeling and control strategies. 
+I am currently a doctoral student at the Department of Biomedical Engineering of College of Design and Engineering in National University of Singapore. My research interest includes magnetic-driven methods, micro-miniature robot, micro-assembly, hysteresis modeling and control strategies. 
 
 
 # 🔥 News
