@@ -33,7 +33,7 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 [A Modular Direct Description Method With Low Memory Usage and Execution Time for Hysteresis Modeling and Compensation of Piezoelectric Actuators](https://ieeexplore.ieee.org/document/10495749)
 
 **Zengsheng Li**, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi
-<br />
+
 <strong><font color="#44679E">Content</font></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -46,13 +46,13 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 **Zengsheng Li**, Dunfa Long, Shaoan Chen, Chaoyang Shi
 
-<br />
 <strong><font color="#44679E">Content</font></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [A Modular Direct Description Method With Low Memory Usage and Execution Time for Hysteresis Modeling and Compensation of Piezoelectric Actuators](https://ieeexplore.ieee.org/document/10495749), Zengsheng Li, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi, **TASE 2024**
+- [An Automated Pick-and-Place Method for Irregular-Shaped Microspheres Inspired by Chopstick Operation](https://ieeexplore.ieee.org/document/10744564), Zengsheng Li, Dunfa Long, Shaoan Chen, Chaoyang Shi, **IEEE ACCESS 2024**
 
 
 # 📖 Educations
