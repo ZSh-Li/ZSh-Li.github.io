@@ -56,15 +56,16 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 
 # 📖 Educations
+- *2025.0 - now*, pursuing the Ph.D. degree in Biomedical Engineering. College of Design and Engineering. National University of Singapore. Singapore.
 - *2021.09 - 2024.06*, M.E. in Mechanical Engineering. School of Mechanical Engineering. Tianjin University. Tianjin.
 - *2017.09 - 2021.06*, B.E. in Mechanical Design, Manufacturing, and Automation. School of Mechanical, Electrical & Information Engineering. Shandong University. Weihai. 
 
 
 # 🎖 Honors and Awards
-- *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National Undergraduate Electronic Design Contest 
+- *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National Undergraduate Electronic Design Contest 
 - *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National University Students Intelligent Car Race
 - *2019* -&nbsp;&nbsp;International - Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The China Engineering Robot Competition and International Open
-- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;- First Prize&nbsp;&nbsp;&nbsp;- The 7th Shandong Province University Robot Competition
-- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;- Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The 2rd Shandong Province University Students Intelligent Control Competition
+- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- First Prize&nbsp;&nbsp;&nbsp;- The 7th Shandong Province University Robot Competition
+- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The 2rd Shandong Province University Students Intelligent Control Competition
 
 
