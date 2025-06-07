@@ -35,7 +35,10 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 **Zengsheng Li**, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi
 
 <strong><font color="#44679E">Content</font></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The presented modular direct description (MDD) method can accurately describe and compensate hysteresis phenomenon. 
+- The MDD-based model offers the advantage of small memory consumption, making it suitable for application in memory-constrained scenarios.
+- The execution time of this model is short and stable, which can be applied in applications requiring a high computational period
+- The MDD method has the potential to become a general modeling method for solving hysteresis challenges.
 </div>
 </div>
 
