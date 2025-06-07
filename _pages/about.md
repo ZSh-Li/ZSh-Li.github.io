@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a doctoral student at the Department of Biomedical Engineering of College of Design and Engineering in National University of Singapore.
+
 
 My research interest includes magnetic-driven methods, micro-miniature robot, micro-assembly, hysteresis modeling and control strategies. 
 
 
 # 🔥 News
 - *2025.05.17* &nbsp;🎉🎉 I receive the offer of admission to the Doctor of Philosophy in Biomedical Engineering programme and NUS research scholarship. 
+
 
 
 # 📝 Publications 
@@ -41,9 +44,11 @@ My research interest includes magnetic-driven methods, micro-miniature robot, mi
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 📖 Educations
 - *2021.09 - 2024.06*, M.E. in Mechanical Engineering. School of Mechanical Engineering. Tianjin University. Tianjin.
 - *2017.09 - 2021.06*, B.E. in Mechanical Design, Manufacturing, and Automation. School of Mechanical, Electrical & Information Engineering. Shandong University. Weihai. 
+
 
 # 🎖 Honors and Awards
 - *2019* -  National  - Second Prize  - The National Undergraduate Electronic Design Contest 
