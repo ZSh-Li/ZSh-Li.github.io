@@ -61,10 +61,10 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 
 # 🎖 Honors and Awards
-- *2019* -  National  - Second Prize  - The National Undergraduate Electronic Design Contest 
-- *2019* -  National  - Second Prize  - The National University Students Intelligent Car Race
-- *2019* -  International  -   Champion    - The China Engineering Robot Competition and International Open
-- *2018* -  Provincial  - First Prize   - The 7th Shandong Province University Robot Competition
-- *2018* -  Provincial  -   Champion    - The 2rd Shandong Province University Students Intelligent Control Competition
+- *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National Undergraduate Electronic Design Contest 
+- *2019* -&nbsp;&nbsp;National&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Second Prize&nbsp;&nbsp;- The National University Students Intelligent Car Race
+- *2019* -&nbsp;&nbsp;International - Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The China Engineering Robot Competition and International Open
+- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;- First Prize&nbsp;&nbsp;&nbsp;- The 7th Shandong Province University Robot Competition
+- *2018* -&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;- Champion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The 2rd Shandong Province University Students Intelligent Control Competition
 
 
