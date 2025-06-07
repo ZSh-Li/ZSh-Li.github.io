@@ -63,7 +63,7 @@ high accuracy release of irregular microbeads validated through pick-and-place e
 
 
 # 📖 Educations
-- *2025.0 - now*, pursuing the Ph.D. degree in Biomedical Engineering. College of Design and Engineering. National University of Singapore. Singapore.
+- *2025.08 - now*, pursuing the Ph.D. degree in Biomedical Engineering. College of Design and Engineering. National University of Singapore. Singapore.
 - *2021.09 - 2024.06*, M.E. in Mechanical Engineering. School of Mechanical Engineering. Tianjin University. Tianjin.
 - *2017.09 - 2021.06*, B.E. in Mechanical Design, Manufacturing, and Automation. School of Mechanical, Electrical & Information Engineering. Shandong University. Weihai. 
 
