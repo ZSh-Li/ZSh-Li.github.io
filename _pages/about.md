@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.05.17*: &nbsp;🎉🎉 I receive the offer of admission to the Doctor of Philosophy in Biomedical Engineering programme and NUS research scholarship. 
+- *2025.05.17* &nbsp;🎉🎉 I receive the offer of admission to the Doctor of Philosophy in Biomedical Engineering programme and NUS research scholarship. 
 
 
 # 📝 Publications 
@@ -42,13 +42,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2019* -  National  - Second Prize  - The National Undergraduate Electronic Design Contest 
-- *2019* -  National  - Second Prize  - The National University Students Intelligent Car Race
-- *2019* -  National  -   Champion    - The China Engineering Robot Competition and International Open
-- *2018* -  Provincial  - First Prize   - The 7th Shandong Province University Robot Competition
-- *2018* -  Provincial  -   Champion    - The 2rd Shandong Province University Students Intelligent Control Competition
-
 # 📖 Educations
 - *2021.09 - 2024.06*, M.E. in Mechanical Engineering. School of Mechanical Engineering. Tianjin University. Tianjin.
 - *2017.09 - 2021.06*, B.E. in Mechanical Design, Manufacturing, and Automation. School of Mechanical, Electrical & Information Engineering. Shandong University. Weihai. 
+
+# 🎖 Honors and Awards
+- *2019* -  National  - Second Prize  - The National Undergraduate Electronic Design Contest 
+- *2019* -  National  - Second Prize  - The National University Students Intelligent Car Race
+- *2019* -  International  -   Champion    - The China Engineering Robot Competition and International Open
+- *2018* -  Provincial  - First Prize   - The 7th Shandong Province University Robot Competition
+- *2018* -  Provincial  -   Champion    - The 2rd Shandong Province University Students Intelligent Control Competition
+
+
