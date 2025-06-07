@@ -37,7 +37,7 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 <strong><font color="#44679E">Content</font></strong>
 - The presented modular direct description (MDD) method can accurately describe and compensate hysteresis phenomenon. 
 - The MDD-based model offers the advantage of small memory consumption, making it suitable for application in memory-constrained scenarios.
-- The execution time of this model is short and stable, which can be applied in applications requiring a high computational period
+- The execution time of this model is short and stable, which can be applied in applications requiring a high computational period.
 - The MDD method has the potential to become a general modeling method for solving hysteresis challenges.
 </div>
 </div>
@@ -50,7 +50,10 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 **Zengsheng Li**, Dunfa Long, Shaoan Chen, Chaoyang Shi
 
 <strong><font color="#44679E">Content</font></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes an automated irregular-shaped microbead assembly method that includes a lifting pickup strategy and an adhesion-vibration release strategy. 
+- The developed method exhibits a high pickup success rate and
+high accuracy release of irregular microbeads validated through pick-and-place experiments and eventually applies to both 2D and 3D assemblies.
+- This work is highly applicable and convenient due to the absence of the need for special treatment of operating instruments and environment, making it a promising candidate for large-scale production applications.
 </div>
 </div>
 
