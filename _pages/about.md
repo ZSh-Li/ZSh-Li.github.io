@@ -27,7 +27,7 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2024</div><img src='images/TASE_resized.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2024</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Modular Direct Description Method With Low Memory Usage and Execution Time for Hysteresis Modeling and Compensation of Piezoelectric Actuators](https://ieeexplore.ieee.org/document/10495749)
