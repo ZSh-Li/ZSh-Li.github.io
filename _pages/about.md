@@ -34,7 +34,6 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 **Zengsheng Li**, Xinjian Fan, Dunfa Long, Zhan Yang, Chaoyang Shi
 <br />
-<br />
 <strong><font color="#44679E">Content</font></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -47,7 +46,6 @@ I am currently a doctoral student at the Department of Biomedical Engineering of
 
 **Zengsheng Li**, Dunfa Long, Shaoan Chen, Chaoyang Shi
 
-<br />
 <br />
 <strong><font color="#44679E">Content</font></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
